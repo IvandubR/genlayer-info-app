@@ -1,0 +1,1 @@
+document.getElementById('btn').onclick=()=>document.getElementById('about').scrollIntoView({behavior:'smooth'});
